@@ -1,3 +1,3 @@
 # Demo
 My first repository 
-<br> Author - Divyanshu 
+<br> Author - Divyanshu Kumar 
